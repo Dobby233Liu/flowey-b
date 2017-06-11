@@ -1,5 +1,5 @@
 do
-"howdy!","Windows Script Host"
+msgbox "howdy!","Windows Script Host"
 loop
 msgbox "hey buddy, eat they pullets!"
 msgbox "FAST, UR GRAND DAD"
